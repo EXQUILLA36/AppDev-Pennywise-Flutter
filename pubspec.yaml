@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   clerk_flutter: ^0.0.13-beta
-  firebase_core: ^2.25.0
+  firebase_core: ^2.32.0
   cloud_firestore: 4.17.5
 
 dev_dependencies:
