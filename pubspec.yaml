@@ -12,7 +12,6 @@ dependencies:
   clerk_flutter: ^0.0.13-beta
   firebase_core: ^2.32.0
   cloud_firestore: 4.17.5
-<<<<<<< HEAD
   google_fonts: ^5.0.0
   flutter_riverpod: ^2.3.7
   hive: ^2.2.3
@@ -22,21 +21,15 @@ dependencies:
   fl_chart: ^0.69.0
   intl: ^0.18.0
   crypto: ^3.0.7
-=======
->>>>>>> origin/main
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
 
-<<<<<<< HEAD
 
 dependency_overrides:
   intl: 0.20.2
 
 flutter: 
-=======
-flutter:
->>>>>>> origin/main
   uses-material-design: true
