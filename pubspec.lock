@@ -105,6 +105,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.3.5"
+<<<<<<< HEAD
   crypto:
     dependency: "direct main"
     description:
@@ -113,6 +114,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.7"
+=======
+>>>>>>> origin/main
   diacritic:
     dependency: transitive
     description:
@@ -129,6 +132,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.0"
+<<<<<<< HEAD
   equatable:
     dependency: transitive
     description:
@@ -137,6 +141,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.7"
+=======
+>>>>>>> origin/main
   fake_async:
     dependency: transitive
     description:
@@ -209,6 +215,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.24.0"
+<<<<<<< HEAD
   fixnum:
     dependency: transitive
     description:
@@ -225,6 +232,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.69.2"
+=======
+>>>>>>> origin/main
   flutter:
     dependency: "direct main"
     description: flutter
@@ -251,6 +260,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.32"
+<<<<<<< HEAD
   flutter_riverpod:
     dependency: "direct main"
     description:
@@ -259,6 +269,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.6.1"
+=======
+>>>>>>> origin/main
   flutter_svg:
     dependency: transitive
     description:
@@ -277,6 +289,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+<<<<<<< HEAD
   google_fonts:
     dependency: "direct main"
     description:
@@ -301,6 +314,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.1.0"
+=======
+>>>>>>> origin/main
   http:
     dependency: transitive
     description:
@@ -382,7 +397,11 @@ packages:
     source: hosted
     version: "0.2.2"
   intl:
+<<<<<<< HEAD
     dependency: "direct main"
+=======
+    dependency: transitive
+>>>>>>> origin/main
     description:
       name: intl
       sha256: "3df61194eb431efc39c4ceba583b95633a403f46c9fd341e550ce0bfa50e9aa5"
@@ -457,10 +476,17 @@ packages:
     dependency: transitive
     description:
       name: meta
+<<<<<<< HEAD
       sha256: "23f08335362185a5ea2ad3a4e597f1375e78bce8a040df5c600c8d3552ef2394"
       url: "https://pub.dev"
     source: hosted
     version: "1.17.0"
+=======
+      sha256: e3641ec5d63ebf0d9b41bd43201a66e3fc79a65db5f61fc181f04cd27aab950c
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.16.0"
+>>>>>>> origin/main
   mime:
     dependency: transitive
     description:
@@ -565,6 +591,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.8"
+<<<<<<< HEAD
   riverpod:
     dependency: transitive
     description:
@@ -573,6 +600,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.6.1"
+=======
+>>>>>>> origin/main
   sky_engine:
     dependency: transitive
     description: flutter
@@ -594,6 +623,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.12.1"
+<<<<<<< HEAD
   state_notifier:
     dependency: transitive
     description:
@@ -602,6 +632,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.0"
+=======
+>>>>>>> origin/main
   stream_channel:
     dependency: transitive
     description:
@@ -630,10 +662,17 @@ packages:
     dependency: transitive
     description:
       name: test_api
+<<<<<<< HEAD
       sha256: ab2726c1a94d3176a45960b6234466ec367179b87dd74f1611adb1f3b5fb9d55
       url: "https://pub.dev"
     source: hosted
     version: "0.7.7"
+=======
+      sha256: "522f00f556e73044315fa4585ec3270f1808a4b186c936e612cab0b565ff1e00"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.7.6"
+>>>>>>> origin/main
   typed_data:
     dependency: transitive
     description:
@@ -643,7 +682,11 @@ packages:
     source: hosted
     version: "1.4.0"
   url_launcher:
+<<<<<<< HEAD
     dependency: "direct main"
+=======
+    dependency: transitive
+>>>>>>> origin/main
     description:
       name: url_launcher
       sha256: f6a7e5c4835bb4e3026a04793a4199ca2d14c739ec378fdfe23fc8075d0439f8
@@ -706,6 +749,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.1.4"
+<<<<<<< HEAD
   uuid:
     dependency: "direct main"
     description:
@@ -714,6 +758,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.5.2"
+=======
+>>>>>>> origin/main
   vector_graphics:
     dependency: transitive
     description:
