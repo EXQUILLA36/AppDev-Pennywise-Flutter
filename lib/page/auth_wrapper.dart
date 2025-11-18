@@ -8,7 +8,7 @@ class AuthWrapper extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final user = ClerkAuth.of(context).user; // current logged-in user
-    print('Current user: $user');
+    // print('Current user: $user');
 
     if (user == null) {
       // Not logged in → show Clerk login

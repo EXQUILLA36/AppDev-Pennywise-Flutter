@@ -105,6 +105,17 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.3.5"
+<<<<<<< HEAD
+  crypto:
+    dependency: "direct main"
+    description:
+      name: crypto
+      sha256: c8ea0233063ba03258fbcf2ca4d6dadfefe14f02fab57702265467a19f27fadf
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.0.7"
+=======
+>>>>>>> origin/main
   diacritic:
     dependency: transitive
     description:
@@ -121,6 +132,17 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.0"
+<<<<<<< HEAD
+  equatable:
+    dependency: transitive
+    description:
+      name: equatable
+      sha256: "567c64b3cb4cf82397aac55f4f0cbd3ca20d77c6c03bedbc4ceaddc08904aef7"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.7"
+=======
+>>>>>>> origin/main
   fake_async:
     dependency: transitive
     description:
@@ -193,6 +215,25 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.24.0"
+<<<<<<< HEAD
+  fixnum:
+    dependency: transitive
+    description:
+      name: fixnum
+      sha256: b6dc7065e46c974bc7c5f143080a6764ec7a4be6da1285ececdc37be96de53be
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.1"
+  fl_chart:
+    dependency: "direct main"
+    description:
+      name: fl_chart
+      sha256: "74959b99b92b9eebeed1a4049426fd67c4abc3c5a0f4d12e2877097d6a11ae08"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.69.2"
+=======
+>>>>>>> origin/main
   flutter:
     dependency: "direct main"
     description: flutter
@@ -219,6 +260,17 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.32"
+<<<<<<< HEAD
+  flutter_riverpod:
+    dependency: "direct main"
+    description:
+      name: flutter_riverpod
+      sha256: "9532ee6db4a943a1ed8383072a2e3eeda041db5657cdf6d2acecf3c21ecbe7e1"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.6.1"
+=======
+>>>>>>> origin/main
   flutter_svg:
     dependency: transitive
     description:
@@ -237,6 +289,33 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+<<<<<<< HEAD
+  google_fonts:
+    dependency: "direct main"
+    description:
+      name: google_fonts
+      sha256: e20ff62b158b96f392bfc8afe29dee1503c94fbea2cbe8186fd59b756b8ae982
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.1.0"
+  hive:
+    dependency: "direct main"
+    description:
+      name: hive
+      sha256: "8dcf6db979d7933da8217edcec84e9df1bdb4e4edc7fc77dbd5aa74356d6d941"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.2.3"
+  hive_flutter:
+    dependency: "direct main"
+    description:
+      name: hive_flutter
+      sha256: dca1da446b1d808a51689fb5d0c6c9510c0a2ba01e22805d492c73b68e33eecc
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0"
+=======
+>>>>>>> origin/main
   http:
     dependency: transitive
     description:
@@ -318,7 +397,11 @@ packages:
     source: hosted
     version: "0.2.2"
   intl:
+<<<<<<< HEAD
+    dependency: "direct main"
+=======
     dependency: transitive
+>>>>>>> origin/main
     description:
       name: intl
       sha256: "3df61194eb431efc39c4ceba583b95633a403f46c9fd341e550ce0bfa50e9aa5"
@@ -393,10 +476,17 @@ packages:
     dependency: transitive
     description:
       name: meta
+<<<<<<< HEAD
+      sha256: "23f08335362185a5ea2ad3a4e597f1375e78bce8a040df5c600c8d3552ef2394"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.17.0"
+=======
       sha256: e3641ec5d63ebf0d9b41bd43201a66e3fc79a65db5f61fc181f04cd27aab950c
       url: "https://pub.dev"
     source: hosted
     version: "1.16.0"
+>>>>>>> origin/main
   mime:
     dependency: transitive
     description:
@@ -501,6 +591,17 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.8"
+<<<<<<< HEAD
+  riverpod:
+    dependency: transitive
+    description:
+      name: riverpod
+      sha256: "59062512288d3056b2321804332a13ffdd1bf16df70dcc8e506e411280a72959"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.6.1"
+=======
+>>>>>>> origin/main
   sky_engine:
     dependency: transitive
     description: flutter
@@ -522,6 +623,17 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.12.1"
+<<<<<<< HEAD
+  state_notifier:
+    dependency: transitive
+    description:
+      name: state_notifier
+      sha256: b8677376aa54f2d7c58280d5a007f9e8774f1968d1fb1c096adcb4792fba29bb
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0"
+=======
+>>>>>>> origin/main
   stream_channel:
     dependency: transitive
     description:
@@ -550,10 +662,17 @@ packages:
     dependency: transitive
     description:
       name: test_api
+<<<<<<< HEAD
+      sha256: ab2726c1a94d3176a45960b6234466ec367179b87dd74f1611adb1f3b5fb9d55
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.7.7"
+=======
       sha256: "522f00f556e73044315fa4585ec3270f1808a4b186c936e612cab0b565ff1e00"
       url: "https://pub.dev"
     source: hosted
     version: "0.7.6"
+>>>>>>> origin/main
   typed_data:
     dependency: transitive
     description:
@@ -563,7 +682,11 @@ packages:
     source: hosted
     version: "1.4.0"
   url_launcher:
+<<<<<<< HEAD
+    dependency: "direct main"
+=======
     dependency: transitive
+>>>>>>> origin/main
     description:
       name: url_launcher
       sha256: f6a7e5c4835bb4e3026a04793a4199ca2d14c739ec378fdfe23fc8075d0439f8
@@ -626,6 +749,17 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.1.4"
+<<<<<<< HEAD
+  uuid:
+    dependency: "direct main"
+    description:
+      name: uuid
+      sha256: a11b666489b1954e01d992f3d601b1804a33937b5a8fe677bd26b8a9f96f96e8
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.5.2"
+=======
+>>>>>>> origin/main
   vector_graphics:
     dependency: transitive
     description:
